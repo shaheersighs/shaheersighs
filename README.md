@@ -4,7 +4,7 @@
 I'm a final-year Data Engineering student who loves wrangling data, optimizing workflows, and building projects that do the heavy lifting. 🚀
 
 
-**About Me**
+**Me and My Projects**
 
 
 Currently pursuing a Bachelor's in Data Engineering at TAFE NSW, diving deep into Python, SQL, and big data technologies. 🎓 

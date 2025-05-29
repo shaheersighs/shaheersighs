@@ -9,14 +9,14 @@ I'm a final-year Data Engineering student who loves wrangling data, optimizing w
 
 Currently pursuing a Bachelor's in Data Engineering at TAFE NSW, diving deep into Python, SQL, and big data technologies. 
 
-Built a Flight Management System using OOP and data structures—because who doesn’t love sorting algorithms and binary trees? 
+1 - Built a Flight Management System using OOP and data structures—because who doesn’t love sorting algorithms and binary trees? 
 
-Developed an AI-powered Tech Resume Aanlyzer with NLP to make job hunting (and hiring) a little less painful. 
+2 - Developed an AI-powered Tech Resume Aanlyzer with NLP to make job hunting (and hiring) a little less painful. 
 
-Created a Counterfeit Currency Detection System using computer vision and deep learning—because counterfeiters should really find another hobby. 
+3 - Created a Counterfeit Currency Detection System using computer vision and deep learning—because counterfeiters should really find another hobby. 
 
-Built an ML model network anomaly detection because even anomalies deserves good predictions. 
+4 - Built an ML model network anomaly detection because even anomalies deserves good predictions. 
 
-Developed a Deep Learning for model brain tumour classification because math can save lives. 
+5 - Developed a Deep Learning for model brain tumour classification because math can save lives. 
 
-Check out my repos below and see what I’ve been working on! 👇
+And many more, check out my repos below and see what I’ve been working on! 👇

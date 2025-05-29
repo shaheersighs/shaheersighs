@@ -15,8 +15,8 @@ Developed an AI-powered Tech Resume Aanlyzer with NLP to make job hunting (and h
 
 Created a Counterfeit Currency Detection System using computer vision and deep learning—because counterfeiters should really find another hobby. 
 
-Built an ML Model for Soil Health—because even dirt deserves good predictions. 
+Built an ML model network anomaly detection because even anomalies deserves good predictions. 
 
-Developed a Logistic Regression Model for Stroke Prediction—because math can save lives. 
+Developed a Deep Learning for model brain tumour classification because math can save lives. 
 
 Check out my repos below and see what I’ve been working on! 👇

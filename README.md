@@ -1,4 +1,4 @@
-**👋 Hey, I'm Shaheer Khan**
+**👋 Hey, I'm Shaheer**
 
 
 I'm a Data Engineering who loves wrangling data, optimizing workflows, and building ML projects that do the heavy lifting. 
@@ -6,10 +6,9 @@ I'm a Data Engineering who loves wrangling data, optimizing workflows, and build
 
 **Me and My Projects**
 
+After wrapping up my bachelor's in Data Engineering at TAFE NSW, I now love to dive deep into Python, SQL, and big data technologies. 
 
-Currently pursuing a Bachelor's in Data Engineering at TAFE NSW, diving deep into Python, SQL, and big data technologies. 
-
-1 - Humanai, AI to Human “editor” that rewrites LLM-generated text into more human-like writing while preserving meaning and original intent.
+1 - Humanai - my signature project, an AI to Human “editor” that rewrites LLM-generated text into more human-like writing while preserving meaning and original intent.
 
 2 - Built a Flight Management System using OOP and data structures—because who doesn’t love sorting algorithms and binary trees? 
 
